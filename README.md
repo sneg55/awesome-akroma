@@ -19,6 +19,11 @@
 - [Discord](https://discordapp.com/invite/KWC8wtT)
 - [Instagram](https://instagram.com/akroma.io)
 
+#### Design
+- [Akroma Logo](http://bit.ly/akroma-logo)
+- [Akroma Mobile Wallpapers](http://bit.ly/akroma-mobile-wallpapers-01)
+
+
 #### Whitepaper Translations
 
 #### Wallets
