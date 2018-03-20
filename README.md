@@ -38,7 +38,10 @@ These are items where you can help Akroma grow
 - [vicex - vote daily](https://acc.vicex.io/acc/listing)
 
 #### Mining
-- [AIO Miner](http://www.weibo.com/RippleLabs/)
+- [AIO Miner](https://aiominer.com/)
+- [SimpleMining OS](https://simplemining.net/)
+- [Claymore's Dual Miner](https://bitcointalk.org/index.php?topic=1433925.0)
+- [Ethos Mining OS](http://ethosdistro.com)
 
 ##### Pools
 - [akroma.minerpool.net](http://akroma.minerpool.net)
