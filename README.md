@@ -55,7 +55,7 @@ These are items where you can help Akroma grow
 #### Swag / Shirts / Stickers
 
 #### Articles / Videos / Guides
-- [xxx](http://justhash.me/)
+- [JustHash - Interview](https://justhash.me/interview-with-a-developer-eric-polerecky-founder-of-akroma/)
 
 #### Development
 
