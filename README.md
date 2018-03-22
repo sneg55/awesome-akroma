@@ -37,6 +37,11 @@
 These are items where you can help Akroma grow
 - [vicex - vote daily](https://acc.vicex.io/acc/listing)
 
+#### Masternodes
+- [Dashboard](https://dashboard.akroma.io)
+- [Official Install Guide](http://bit.ly/2FHk2x6)
+- [Elastic Container Service Guide](https://gist.github.com/p-s-dev/b417b1077553f66e4fe4b0bbc21d107e)
+
 #### Mining
 - [AIO Miner](https://aiominer.com/)
 - [SimpleMining OS](https://simplemining.net/)
