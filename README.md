@@ -63,7 +63,7 @@ These are items where you can help Akroma grow
 - [aka.pool.sexy](http://aka.pool.sexy)
 
 #### Social
-- [Reddit](reddit.com/r/akroma_io/)
+- [Reddit](https://reddit.com/r/akroma_io/)
 
 #### Swag / Shirts / Stickers
 
