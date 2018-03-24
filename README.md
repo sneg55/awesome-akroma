@@ -25,6 +25,7 @@
 
 
 #### Whitepaper Translations
+- [Romanian](https://docs.google.com/document/d/13wSsvkiN0RXPY0gpgrDyqJ56uFv-XjplyZFcOwFqoF0)
 
 #### Wallets
 - [Web Wallet](https://wallet.akroma.io/)
