@@ -9,7 +9,7 @@
 
 > A curated list of awesome things related to Akroma.
 
-#### Official
+### Official
 - [Akroma Website](https://akroma.io/)
 - [Whitepaper](http://bit.ly/2EMQ4E4)
 - [Akroma Github](https://github.com/akroma-project/)
@@ -18,38 +18,45 @@
 - [Facebook](https://www.facebook.com/AkromaIO/)
 - [Discord](https://discordapp.com/invite/KWC8wtT)
 - [Instagram](https://instagram.com/akroma.io)
+- [Explorer API Documentation](https://api.akroma.io/docs)
 
-#### Design
+### Masternodes
+- [Dashboard](https://dashboard.akroma.io)
+- [Official Install Guide](http://bit.ly/2FHk2x6)
+- [Elastic Container Service Guide](https://gist.github.com/p-s-dev/b417b1077553f66e4fe4b0bbc21d107e)
+
+### Design
 - [Akroma Logo](http://bit.ly/akroma-logo)
 - [Akroma Mobile Wallpapers](http://bit.ly/akroma-mobile-wallpapers-01)
 
-
-#### Whitepaper Translations
+### Whitepaper Translations
 - [Romanian](https://docs.google.com/document/d/13wSsvkiN0RXPY0gpgrDyqJ56uFv-XjplyZFcOwFqoF0)
+
+### Software
 
 #### Wallets
 - [Web Wallet](https://wallet.akroma.io/)
 - [Android Wallet](https://play.google.com/store/apps/details?id=com.wallet.crypto.akroma&hl=en)
 
-#### Exchanges
+#### Portfolio
+- [delta](https://getdelta.io/)
+
+### Exchanges
 - [stocks.exchange](https://stocks.exchange/trade/AKA/BTC)
 
-#### Voting / Compaigns
+### Voting / Compaigns
 These are items where you can help Akroma grow
 - [vicex - vote daily](https://acc.vicex.io/acc/listing)
 
-#### Masternodes
-- [Dashboard](https://dashboard.akroma.io)
-- [Official Install Guide](http://bit.ly/2FHk2x6)
-- [Elastic Container Service Guide](https://gist.github.com/p-s-dev/b417b1077553f66e4fe4b0bbc21d107e)
 
-#### Mining
+
+### Mining
 - [AIO Miner](https://aiominer.com/)
 - [SimpleMining OS](https://simplemining.net/)
 - [Claymore's Dual Miner](https://bitcointalk.org/index.php?topic=1433925.0)
 - [Ethos Mining OS](http://ethosdistro.com)
 
-##### Pools
+#### Pools
 - [akroma.minerpool.net](http://akroma.minerpool.net)
 - [aka.vipool.net](http://aka.vipool.net)
 - [akroma.cryptopools.info](http://akroma.cryptopools.info)
@@ -63,15 +70,15 @@ These are items where you can help Akroma grow
 - [aikapool.com](http://aikapool.com)
 - [aka.pool.sexy](http://aka.pool.sexy)
 
-#### Social
+### Social
 - [Reddit](https://reddit.com/r/akroma_io/)
 
-#### Swag / Shirts / Stickers
+### Swag / Shirts / Stickers
 
-#### Articles / Videos / Guides
+### Articles / Videos / Guides
 - [JustHash - Interview](https://justhash.me/interview-with-a-developer-eric-polerecky-founder-of-akroma/)
 
-#### Development
+### Development
 
-#### Visualizations
+### Visualizations
 - [Stats](http://stats.akroma.io/)
