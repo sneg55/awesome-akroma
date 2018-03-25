@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./logo.svg" alt="logo of awesome-akroma repository">
+  <img width="400" src="./akroma-awesome.svg" alt="logo of awesome-akroma repository">
   <br>
   <br>
 </p>
