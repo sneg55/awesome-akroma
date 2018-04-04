@@ -79,6 +79,7 @@ These are items where you can help Akroma grow
 
 ### Articles / Videos / Guides
 - [JustHash - Interview](https://justhash.me/interview-with-a-developer-eric-polerecky-founder-of-akroma/)
+- [Between Blocks - All about Akroma](https://betweenblocks.org/topic/25/all-about-akroma)
 
 ### Development
 
