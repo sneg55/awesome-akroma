@@ -46,6 +46,7 @@
 
 ### Market Information
 - [COINLIB](https://coinlib.io/coin/AKA/Akroma)
+- [CoinCodex](https://coincodex.com/crypto/akroma)
 
 ### Voting / Compaigns
 These are items where you can help Akroma grow
