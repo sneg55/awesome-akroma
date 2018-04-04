@@ -50,7 +50,6 @@
 
 ### Voting / Compaigns
 These are items where you can help Akroma grow
-- [vicex - vote daily](https://acc.vicex.io/acc/listing)
 
 ### Mining
 - [AIO Miner](https://aiominer.com/)
