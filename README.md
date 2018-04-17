@@ -42,6 +42,7 @@
 
 ### Exchanges
 - [stocks.exchange](https://stocks.exchange/trade/AKA/BTC)
+- [graviex](https://graviex.net/markets/akabtc)
 
 ### Market Information
 - [COINLIB](https://coinlib.io/coin/AKA/Akroma)
@@ -55,6 +56,7 @@ These are items where you can help Akroma grow
 - [SimpleMining OS](https://simplemining.net/)
 - [Claymore's Dual Miner](https://bitcointalk.org/index.php?topic=1433925.0)
 - [Ethos Mining OS](http://ethosdistro.com)
+- [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0)
 
 #### Pools
 - [akroma.minerpool.net](http://akroma.minerpool.net)
