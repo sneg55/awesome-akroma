@@ -21,7 +21,6 @@
 - [Explorer API Documentation](https://api.akroma.io/docs)
 
 ### Masternodes
-- [Dashboard](https://dashboard.akroma.io)
 - [Official Install Guide](http://bit.ly/2FHk2x6)
 - [Elastic Container Service Guide](https://gist.github.com/p-s-dev/b417b1077553f66e4fe4b0bbc21d107e)
 
