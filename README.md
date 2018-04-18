@@ -39,6 +39,7 @@
 
 #### Portfolio
 - [delta](https://getdelta.io/)
+- [Blockfolio](https://www.blockfolio.com/)
 
 ### Exchanges
 - [stocks.exchange](https://stocks.exchange/trade/AKA/BTC)
