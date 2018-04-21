@@ -53,6 +53,7 @@
 - [CoinCodex](https://coincodex.com/crypto/akroma)
 - [CryptoCompare](https://www.cryptocompare.com/coins/aka/overview)
 - [LiveCoinWatch](https://www.livecoinwatch.com/price/Akroma-AKA)
+- [WorldCoinIndex](https://www.worldcoinindex.com/coin/akroma)
 
 ### Voting / Compaigns
 These are items where you can help Akroma grow
