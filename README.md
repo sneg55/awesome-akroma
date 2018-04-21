@@ -41,6 +41,9 @@
 - [delta](https://getdelta.io/)
 - [Blockfolio](https://www.blockfolio.com/)
 
+#### Mining 
+- [blockwatch](https://itunes.apple.com/app/blockwatch/id1265074035)
+
 ### Exchanges
 - [stocks.exchange](https://stocks.exchange/trade/AKA/BTC)
 - [graviex](https://graviex.net/markets/akabtc)
