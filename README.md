@@ -44,6 +44,9 @@
 #### Mining 
 - [blockwatch](https://itunes.apple.com/app/blockwatch/id1265074035)
 
+#### Markets/News
+- [hodl](https://itunes.apple.com/us/app/hodl-real-time-cryptocurrency/id1253668876?mt=8)
+
 ### Exchanges
 - [stocks.exchange](https://stocks.exchange/trade/AKA/BTC)
 - [graviex](https://graviex.net/markets/akabtc)
