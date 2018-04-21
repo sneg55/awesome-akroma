@@ -48,7 +48,7 @@
 ### Market Information
 - [COINLIB](https://coinlib.io/coin/AKA/Akroma)
 - [CoinCodex](https://coincodex.com/crypto/akroma)
-- [CoinCalculators](https://www.coincalculators.io/coin.aspx?crypto=akroma-mining-calculator)
+- [CryptoCompare](https://www.cryptocompare.com/coins/aka/overview)
 
 ### Voting / Compaigns
 These are items where you can help Akroma grow
@@ -59,6 +59,7 @@ These are items where you can help Akroma grow
 - [Claymore's Dual Miner](https://bitcointalk.org/index.php?topic=1433925.0)
 - [Ethos Mining OS](http://ethosdistro.com)
 - [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0)
+- [CoinCalculators](https://www.coincalculators.io/coin.aspx?crypto=akroma-mining-calculator)
 
 #### Pools
 - [akroma.minerpool.net](http://akroma.minerpool.net)
