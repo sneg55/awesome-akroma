@@ -38,7 +38,7 @@
 - [Android Wallet](https://play.google.com/store/apps/details?id=com.wallet.crypto.akroma&hl=en)
 
 #### Portfolio
-- [delta](https://getdelta.io/)
+- [Delta](https://getdelta.io/)
 - [Blockfolio](https://www.blockfolio.com/)
 
 #### Mining 
@@ -62,12 +62,22 @@
 These are items where you can help Akroma grow
 
 ### Mining
-- [AIO Miner](https://aiominer.com/)
-- [SimpleMining OS](https://simplemining.net/)
-- [Claymore's Dual Miner](https://bitcointalk.org/index.php?topic=1433925.0)
-- [Ethos Mining OS](http://ethosdistro.com)
-- [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0)
 - [CoinCalculators](https://www.coincalculators.io/coin.aspx?crypto=akroma-mining-calculator)
+
+#### Miners
+- [AIO Miner](https://aiominer.com/)
+- [Claymore's Dual Miner](https://bitcointalk.org/index.php?topic=1433925.0)
+- [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0)
+- [ethminer](https://github.com/ethereum-mining/ethminer)
+
+#### Distros
+- [SimpleMining OS](https://simplemining.net/)
+- [ethOS Mining OS](http://ethosdistro.com)
+- [Hive OS](https://hiveos.farm/)
+
+#### Tools
+- [Blockwatch Mining Monitor](https://itunes.apple.com/app/blockwatch/id1265074035)
+- [Asi Mining Pool Monitor](https://asimpm.com/)
 
 #### Pools
 - [akroma.minerpool.net](http://akroma.minerpool.net)
@@ -76,7 +86,6 @@ These are items where you can help Akroma grow
 - [mining.akroma.org](http://mining.akroma.org)
 - [clona.ru](http://clona.ru)
 - [aka.miningpeon.net](http://aka.miningpeon.net)
-- [akroma.pistolcrypt.com](http://akroma.pistolcrypt.com)
 - [aka.encryptglobe.com](http://aka.encryptglobe.com)
 - [akroma.miningpool.fun](http://akroma.miningpool.fun)
 - [akroma.cryptowarlords.net](http://akroma.cryptowarlords.net)
@@ -94,6 +103,7 @@ These are items where you can help Akroma grow
 - [Between Blocks - All about Akroma](https://betweenblocks.org/topic/25/all-about-akroma)
 
 ### Development
+- [Akroma github](https://github.com/akroma-project/)
 
 ### Visualizations
 - [Stats](http://stats.akroma.io/)
