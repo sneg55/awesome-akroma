@@ -17,6 +17,7 @@
 - [Twitter](https://twitter.com/akroma_io/)
 - [Facebook](https://www.facebook.com/AkromaIO/)
 - [Discord](https://discordapp.com/invite/KWC8wtT)
+- [Telegram](https://t.me/akroma_official)
 - [Instagram](https://instagram.com/akroma.io)
 - [Explorer API Documentation](https://api.akroma.io/docs)
 
