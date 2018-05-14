@@ -95,7 +95,7 @@ These are items where you can help Akroma grow
 - [ucrypto.net](https://ucrypto.net/pools/)
 
 ### Social
-- [Reddit](https://reddit.com/r/akroma_io/)
+- [Reddit - Unoffical](https://reddit.com/r/akroma_io/)
 
 ### Swag / Shirts / Stickers
 
