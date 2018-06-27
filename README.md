@@ -97,6 +97,7 @@ These are items where you can help Akroma grow
 - [aikapool.com](http://aikapool.com)
 - [aka.pool.sexy](http://aka.pool.sexy)
 - [ucrypto.net](https://ucrypto.net/pools/)
+- [aka.signal2noi.se](http://aka.signal2noi.se)
 
 ### Social
 - [Reddit - Unoffical](https://reddit.com/r/akroma_io/)
